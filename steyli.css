@@ -6,10 +6,10 @@
 }
 body{
     min-height: 100vh;
-    background-color: dodgerblue;
+    background-color: black;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #fff;
+    color: #555;
     font-size: 3vw;
 }
